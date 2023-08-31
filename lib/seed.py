@@ -28,7 +28,7 @@ if __name__ == '__main__':
             platform = fake.word(),
             price = random.randint(0, 60)
         )
-    ]
+    
     for i in range(50)]
         
     session.add_all(games)
